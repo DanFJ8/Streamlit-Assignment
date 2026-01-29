@@ -1,9 +1,10 @@
+streamlit>=1.32.0
 pandas
 numpy
-streamlit
-wikipedia  
-langchain_google_genai 
-langchain_core.prompts
+wikipedia
 scikit-learn
-streamlit>=1.32.0
 altair
+langchain
+langchain-core
+langchain-google-genai
+google-generativeai
