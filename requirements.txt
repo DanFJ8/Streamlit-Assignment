@@ -1,4 +1,11 @@
-streamlit>=1.32.0
 pandas
+numpy
+os
+urllib.parse
+streamlit
+wikipedia  
+langchain_google_genai 
+langchain_core.prompts
 scikit-learn
+streamlit>=1.32.0
 altair
