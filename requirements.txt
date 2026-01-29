@@ -1,7 +1,5 @@
 pandas
 numpy
-
-urllib.parse
 streamlit
 wikipedia  
 langchain_google_genai 
